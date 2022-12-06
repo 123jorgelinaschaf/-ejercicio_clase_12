@@ -1,0 +1,18 @@
+.relojcontenedor {
+    background-color: #e5989b;
+    padding: 25px;
+    max-width: 350px;
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 15%;
+}
+
+#reloj1 {
+    background-color: #e5989b;
+    font-family: sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #6d6875;
+    color: #6d6875;
+}
